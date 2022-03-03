@@ -1,0 +1,84 @@
+{
+  "productList": [
+    {
+      "productName": "Strawbeery",
+      "category": "Fruits",
+      "price": 5,
+      "date": "2022-03-01T06:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "banana",
+      "category": "Fruits",
+      "price": 100,
+      "date": "2022-02-08T06:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "mango",
+      "category": "Fruits",
+      "price": 100,
+      "date": "2022-02-08T06:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Okra",
+      "category": "Vegetable",
+      "price": 5,
+      "date": "2022-03-11T06:00:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "banana",
+      "category": "Fruits",
+      "price": 5,
+      "date": "2022-02-08T06:00:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "banana",
+      "category": "Fruits",
+      "price": 10,
+      "date": "2022-02-08T06:00:00.000Z",
+      "id": 9
+    },
+    {
+      "productName": "banana",
+      "category": "Fruits",
+      "price": 1,
+      "date": "2022-02-08T06:00:00.000Z",
+      "id": 10
+    },
+    {
+      "productName": "banana",
+      "category": "Vegetable",
+      "price": 7,
+      "date": "2022-02-08T06:00:00.000Z",
+      "id": 11
+    },
+    {
+      "productName": "banana",
+      "category": "Fruits",
+      "price": 10,
+      "date": "2022-02-08T06:00:00.000Z",
+      "id": 12
+    },
+    {
+      "productName": "Strawbeery",
+      "category": "Fruits",
+      "price": 10,
+      "date": "2022-03-01T06:00:00.000Z",
+      "id": 13
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
