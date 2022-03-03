@@ -3,7 +3,7 @@
     {
       "productName": "Strawbeery",
       "category": "Fruits",
-      "price": 5,
+      "price": 9,
       "date": "2022-03-01T06:00:00.000Z",
       "id": 4
     },
@@ -29,46 +29,11 @@
       "id": 7
     },
     {
-      "productName": "banana",
-      "category": "Fruits",
-      "price": 5,
-      "date": "2022-02-08T06:00:00.000Z",
-      "id": 8
-    },
-    {
-      "productName": "banana",
-      "category": "Fruits",
-      "price": 10,
-      "date": "2022-02-08T06:00:00.000Z",
-      "id": 9
-    },
-    {
-      "productName": "banana",
-      "category": "Fruits",
-      "price": 1,
-      "date": "2022-02-08T06:00:00.000Z",
-      "id": 10
-    },
-    {
-      "productName": "banana",
-      "category": "Vegetable",
-      "price": 7,
-      "date": "2022-02-08T06:00:00.000Z",
-      "id": 11
-    },
-    {
-      "productName": "banana",
-      "category": "Fruits",
-      "price": 10,
-      "date": "2022-02-08T06:00:00.000Z",
-      "id": 12
-    },
-    {
-      "productName": "Strawbeery",
-      "category": "Fruits",
-      "price": 10,
-      "date": "2022-03-01T06:00:00.000Z",
-      "id": 13
+      "productName": "USB",
+      "category": "Electronics",
+      "price": 12,
+      "date": "2022-03-03T06:00:00.000Z",
+      "id": 15
     }
   ],
   "comments": [

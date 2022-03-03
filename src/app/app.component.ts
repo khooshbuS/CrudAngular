@@ -54,10 +54,6 @@ export class AppComponent implements OnInit {
     this.dialog.open(DialogComponent, {
       width: '30%',
       data: row
-    }).afterClosed().subscribe(val => {
-      if (val === 'update') {
-        this.getAllProducts();
-      }
     })
   }
 
